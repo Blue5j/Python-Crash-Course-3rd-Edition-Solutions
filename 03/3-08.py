@@ -11,7 +11,7 @@
 #   * Use `sort()` to change your list so it's stored in reverse alphabetical order. Print the list show that its order has changed.
 # ----------------------------------------------------------------------------------------------------------------------------------
 
-locations = ['Japan', 'China', 'Russia', 'Germany', 'Turkey']
+locations = ["Japan", "China", "Russia", "Germany", "Turkey"]
 
 print(locations)
 print()

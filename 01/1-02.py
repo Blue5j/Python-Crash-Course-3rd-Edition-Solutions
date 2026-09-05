@@ -3,8 +3,8 @@
 
 # I will use this file as the 'hello_world.py' mentioned in the question above
 
-# Typo that generates an error
-pwing('Hello World!') # The typo is in the syntax, so python won't be able to understand what you are trying to do.
+# Typo that generates an error (remove '#' to see error)
+# pwint("Hello World!") 
 
 # Typo that doesn't generate an error
-print('Helo Word!') # The typo is in the string, so python will simply return the string you typed along with the typo, giving no errors
+print("Helo World!")

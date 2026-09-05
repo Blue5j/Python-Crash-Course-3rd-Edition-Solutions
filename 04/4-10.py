@@ -4,7 +4,7 @@
 #   * Print the message 'The last three items in the list are:'. Then use a slice to print the last three items in the list.
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-languages = ['python', 'javascript', 'c++', 'ruby', 'react']
+languages = ["python", "javascript", "c++", "ruby", "react"]
 
 print(f"The first three items in the list are: {languages[:3]}")
 print()

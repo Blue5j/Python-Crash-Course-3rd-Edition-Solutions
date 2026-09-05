@@ -3,7 +3,7 @@
 #   * Add a line at the end of your program stating what these animals have in common. You could print a sentence such as 'Any of these animals would make a great pet!'.
 # -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-animals = ['Cat', 'Dog', 'Fish']
+animals = ["Cat", "Dog", "Fish"]
 
 for animal in animals:
     print(f"A {animal} would make a great pet.")

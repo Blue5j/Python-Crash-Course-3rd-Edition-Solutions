@@ -4,7 +4,7 @@
 #   * Print a second set of invitation messages, one for each person who is still in your list.
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-guests = ['Shaheer', 'Ayan', 'Ghous']
+guests = ["Shaheer", "Ayan", "Ghous"]
 
 print(f"Hello, {guests[0]}! You are invited to dinner at my house!")
 print(f"Hello, {guests[1]}! You are invited to dinner at my house!")
@@ -13,7 +13,7 @@ print(f"Hello, {guests[2]}! You are invited to dinner at my house!")
 print(f"\nSorry everyone, {guests[2]} couldn't make it to the dinner.")
 
 del guests[2]
-guests.append('Yahya')
+guests.append("Yahya")
 print()
 
 print(f"Hello, {guests[0]}! You are invited to dinner at my house!")
