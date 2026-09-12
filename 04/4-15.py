@@ -1,7 +1,3 @@
-# 4-14. Code Review: Choose three of the programs you've written in this chapter and modify each one to comply with PEP 8.
-# -----------------------------------------------------------------------------------------------------------------------
-
-# 4-12:
 pizzas = ["Chicken Tikka", "Chicken Fajita", "Pepperoni"]
 
 friends_pizzas = pizzas[:]
